@@ -12,7 +12,7 @@ import java.sql.*;
 public class DbHelper {
     
     static String username = "root";
-    static String password = "123456789AEC";
+    static String password = "password";
     static String sqlconn = "jdbc:mysql://localhost:3306/first_app";
     
     public Connection getConnection() throws SQLException{
