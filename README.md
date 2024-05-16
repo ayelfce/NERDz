@@ -1,2 +1,2 @@
 # NERDz
-NERDz is currently a demo project for a socail app which aims to help engineering students to connect.
+aNERDz is currently a demo project for a social app which aims to help engineering students to connect.
